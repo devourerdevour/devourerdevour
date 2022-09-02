@@ -12,17 +12,46 @@
                         "menu_items":	[{
                                             "item_name": "Francesinha",
                                             "Description": "Francesinha with an incredible steak",
+                                            "images": ["https://media-cdn.tripadvisor.com/media/photo-s/11/ce/f2/8f/img-20180118-122606-largejpg.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/11/ce/f2/8e/img-20180118-123118-largejpg.jpg"],
                                             "price"	: 9
                                         },
                                         {
                                             "item_name": "Cachorrinho",
                                             "Description": "Typical Porto's cachorrinho",
+                                            "images" : [],
                                             "price"	: 4
                                         },
                                         {
                                             "item_name": "Prego",
                                             "Description": "If the francesinha is too much for you. With the same incredible steak used in the francesinha",
+                                            "images" : ["https://lh5.googleusercontent.com/p/AF1QipMUnOYvpp3YEDnRIQcLXmj5v_LgMSk9uv9nerwr=w408-h544-k-no"],
                                             "price"	: 4
+                                        }]
+                    },
+                    {
+                        "menu_type" :	"Drink",
+                        "menu_items":	[{
+                                            "item_name": "Caneca",
+                                            "Description": "Same as a fino but bigger. It's a Super Bock pint basically.",
+                                            "price"	: 2
+                                        }]
+                    }
+                ]
+        },
+        {
+            "name" : "Francesinha cafe",
+            "description": "best ingrediants you can find in a francesinha",
+            "contact_no": "22 550 9202",
+            "area": "Porto",
+            "cuisines" : ["tasco", "cafe"],
+            "link" : "https://goo.gl/maps/CX1UA6KBMPsZQcAz5",
+            "menu": [{
+                        "menu_type" :	"Snack",
+                        "menu_items":	[{
+                                            "item_name": "Francesinha",
+                                            "Description": "Francesinha with an incredible steak",
+                                            "images": ["https://photos.app.goo.gl/g1D6Vp3adf8QM9vs5"],
+                                            "price"	: 10
                                         }]
                     },
                     {
