@@ -1,0 +1,34 @@
+{ 
+    "restaurants" : [
+        {
+            "name" : "Mirandas Kaffe",
+            "description": "0% fancy 100% tasty",
+            "contact_no": "22 550 9202",
+            "area": "Porto",
+            "cuisines" : ["tasco", "cafe"],
+            "link" : "https://goo.gl/maps/CX1UA6KBMPsZQcAz5",
+            "menu": [{
+                        "menu_type" :	"Snack",
+                        "menu_items":	[{
+                                            "item_name": "Francesinha",
+                                            "Description": "Francesinha with an incredible steak",
+                                            "price"	: 9
+                                        },
+                                        {
+                                            "item_name": "Prego",
+                                            "Description": "If the francesinha is too much for you. With the same incredible steak used in the francesinha",
+                                            "price"	: 4
+                                        }]
+                    },
+                    {
+                        "menu_type" :	"Drink",
+                        "menu_items":	[{
+                                            "item_name": "Caneca",
+                                            "Description": "Same as a fino but bigger. It's a Super Bock pint basically.",
+                                            "price"	: 2
+                                        }]
+                    }
+                ]
+        }
+    ]
+}
