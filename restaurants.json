@@ -15,6 +15,11 @@
                                             "price"	: 9
                                         },
                                         {
+                                            "item_name": "Cachorrinho",
+                                            "Description": "Typical Porto's cachorrinho",
+                                            "price"	: 4
+                                        },
+                                        {
                                             "item_name": "Prego",
                                             "Description": "If the francesinha is too much for you. With the same incredible steak used in the francesinha",
                                             "price"	: 4
